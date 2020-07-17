@@ -34,9 +34,10 @@ A: Using Image Optimizer, you will have two options, which are Lossless and Cust
 
 ## 3. How to install Image Optimizer extension for Magento 2
 
-Before installing the extension, please [download it here](https://www.mageplaza.com/magento-2-image-optimizer/)
+Before installing the extension, please [bought it here](https://www.mageplaza.com/magento-2-image-optimizer/)
 
 Install via composer (recommend). Run the following command in Magento 2 root folder:
+(Available only for paid customers)
 
 ```
 composer require mageplaza/module-image-optimizer
