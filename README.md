@@ -1,6 +1,6 @@
-# Image Optimizer for Magento 2
+# Magento 2 Image Optimizer
 
-[Image Optimizer](https://www.mageplaza.com/magento-2-image-optimizer/) can be considered as a must-have module for Magento 2 stores which have the need to compress and optimize their images. By optimizing the images, you will have the ability to reduce the page loading time, enhance the shopping experience as well as grow the conversion rate considerably. 
+[Magento 2 Image Optimizer](https://www.mageplaza.com/magento-2-image-optimizer/) can be considered as a must-have module for Magento 2 stores which have the need to compress and optimize their images. By optimizing the images, you will have the ability to reduce the page loading time, enhance the shopping experience as well as grow the conversion rate considerably. 
 
 ## 1. Documentation
 
@@ -30,7 +30,7 @@ A: Yes, it is absolutely possible. With the help of cron, the schedule to scan a
 
 **Q: How is the quality of the image after optimizing?**
 
-A: Using Image Optimizer, you will have two options, which are Lossless and Custom. Choosing Lossless, you can reduce the size of the image while still retaining the quality of that image. On the contrary, you can define the quality percent of optimized images with the Custom option. However, please keep in mind that small file size equal with worse image quality. 
+A: Using Magento 2 Image Optimizer, you will have two options, which are Lossless and Custom. Choosing Lossless, you can reduce the size of the image while still retaining the quality of that image. On the contrary, you can define the quality percent of optimized images with the Custom option. However, please keep in mind that small file size equal with worse image quality. 
 
 ## 3. How to install Image Optimizer extension for Magento 2
 
@@ -46,23 +46,23 @@ php bin/magento setup:static-content:deploy
 ```
 
 
-## 4. Highlight Features
+## 4. Highlight Features of Magento 2 Image Optimizer
 
 ### Optimize multiple types of images
 
 ![Optimize multiple types of images](https://i.imgur.com/xXd6u8v.png)
 
-With Magento 2 Image Optimizer, various types of images such as PNG, JPG, and GIF can be compressed easily by the store admins. These three image types are the most common formats which are used by thousands of online stores to upload the pictures of their products and services. With compressed image size, you will be able to better your store site’s performance. 
+With [Magento 2 Image Optimizer](https://marketplace.magento.com/mageplaza-module-image-optimizer.html), various types of images such as PNG, JPG, and GIF can be compressed easily by the store admins. These three image types are the most common formats which are used by thousands of online stores to upload the pictures of their products and services. With compressed image size, you will be able to better your store site’s performance. 
 
 ### Control image quality: lossless or lossy
 
 ![Control image quality](https://i.imgur.com/7u4MUJz.png)
 
-Setting the compression level is the most interesting feature of the Image Optimizer extension. There are two compression options which create different image quality and file size output that you can use: Lossless and Lossy. 
+Setting the compression level is the most interesting feature of the Magento 2 Image Optimizer extension. There are two compression options which create different image quality and file size output that you can use: Lossless and Lossy. 
 
 On the one hand, Lossless is an option which allows admin to retain the quantity of image while downsizing its size. More specifically, by removing unnecessary meta data from image files, the file size will be decreased marginally.
 
-On the other hand, Custom compression, also known as Lossy, will help you to reduce the file size dramatically. However, there will be a loss in the data of the original image file; in other words, the quality of the image will be affected. When the Image Optimizer extension is applied to your store, the retained proportion of quality after the compression process can be set without a visible loss in image quality. As a result, you can retain full control of image quality as well as the compression level. 
+On the other hand, Custom compression, also known as Lossy, will help you to reduce the file size dramatically. However, there will be a loss in the data of the original image file; in other words, the quality of the image will be affected. When Magento 2 Image Optimizer extension is applied to your store, the retained proportion of quality after the compression process can be set without a visible loss in image quality. As a result, you can retain full control of image quality as well as the compression level. 
 
 ### Process optimization automatically
 
@@ -70,13 +70,13 @@ On the other hand, Custom compression, also known as Lossy, will help you to red
 
 You can activate the image compression on a regular basis by running cron. Thanks to this, the admin will no longer need to compress images manually. 
 
-Image Optimizer will scan all the available images and notify you about the optimization status. After that, this module will activate the optimization process to scan than compress images in certain times. Store admins will be able to save a great amount of time with this automated operation. 
+Magento 2 Image Optimizer will scan all the available images and notify you about the optimization status. After that, this module will activate the optimization process to scan than compress images in certain times. Store admins will be able to save a great amount of time with this automated operation. 
 
 ### Back up original images
 
 ![Back up original images](https://i.imgur.com/ikmN1Rs.png)
 
-To ensure the safety of original images, modifications should accompany with backup. With Image Optimizer, all images will be stored in an image directory, and store admins can roll-back any image and use it at any time if necessary. 
+To ensure the safety of original images, modifications should accompany with backup. With Magento 2 Image Optimizer, all images will be stored in an image directory, and store admins can roll-back any image and use it at any time if necessary. 
 
 The backup feature allows admins to freely modify the image without worrying about the original picture being lost. 
 
@@ -88,7 +88,7 @@ In addition, you can also assign the image scan to certain directories of your s
 
 Thanks to this separation, the scanning process will become much more time-saving and focussing. The directories which require original pictures with full quality will not be counted in the optimization process. 
 
-## 5. More Features
+## 5. More Features of Magento 2 Image Optimizer extension
 
 ### Force File Permission
 
@@ -114,7 +114,7 @@ Allow multiple image paths and compress to be selected at the same time.
 
 Command-line is supported for quick and convenient image optimization.
 
-## 6. Full Feature List 
+## 6. Full Image Optimizer Feature List 
 ### For Store Admins 
 #### General 
 - Turn on/ off the module
@@ -155,7 +155,7 @@ Command-line is supported for quick and convenient image optimization.
 - Experience good shopping time 
 
 
-## 7. User Guide 
+## 7. Image Optimizer User Guide 
 
 
 ### How to Configure
@@ -254,11 +254,28 @@ Also, please run the following command to scan images following the confiruratio
 php bin/magento mpimageoptimizer:scan
 ```
 
+**Get more Magento 2 extension on Github**
+- [Magento 2 Instagram Feed](https://github.com/mageplaza/magento-2-instagram-feed)
+- [Magento 2 Social Login](https://github.com/mageplaza/magento-2-social-login)
+- [Magento 2 SEO extension](https://github.com/mageplaza/magento-2-seo)
+- [Magento 2 Blog extension](https://github.com/mageplaza/magento-2-blog)
+- [Magento 2 Lazy Loading](https://github.com/mageplaza/magento-2-lazy-loading)
+- [Magento 2 Security extension](https://github.com/mageplaza/magento-2-security)
+- [Magento 2 Cron Schedule](https://github.com/mageplaza/magento-2-cron-schedule)
 
 
+**Explore our pupular extension:**
+- [Magento 2 Order Export](https://www.mageplaza.com/magento-2-order-export/)
+- [Magento 2 Custom Stock Status](https://www.mageplaza.com/magento-2-custom-stock-status/)
+- [Magento 2 Import / Export Categories](https://www.mageplaza.com/magento-2-import-export-categories/)
+- [Magento 2 Import Export CMS](https://www.mageplaza.com/magento-2-import-export-cms/)
+- [Magento 2 Mass Product Actions](https://www.mageplaza.com/magento-2-mass-product-actions/)
+- [magento 2 Two Factor Authentication extension](https://www.mageplaza.com/magento-2-two-factor-authentication/)
 
-
-
-
-
-
+**Our extension on Marketplace:**
+- [Magento 2 Popup extension](https://marketplace.magento.com/mageplaza-module-better-popup.html)
+- [Magento 2 Multi Flat Rates](https://marketplace.magento.com/mageplaza-module-multi-flat-rates.html)
+- [Magento 2 Same Order Number](https://marketplace.magento.com/mageplaza-module-same-order-number.html)
+- [Magento 2 Two-Factor Authentication](https://marketplace.magento.com/mageplaza-module-two-factors-authentication.html)
+- [Magento 2 Import Export CMS](https://marketplace.magento.com/mageplaza-module-import-export-cms.html)
+- [Magento 2 Custom Stock Status](https://marketplace.magento.com/mageplaza-module-custom-stock-status.html)
